@@ -13,10 +13,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing B.Tech in Computer Science Engineering (Class of 2026).
+- 🎓 Pursuing B.Tech in Computer Science Engineering (Class of 2028).
 - 💡 Passionate about project-based learning, practical implementation, and solving real-world problems.
 - 🎯 Currently diving deep into **AI/ML**, **RAG architectures**, and **Cybersecurity**.
-- 🚀 Actively participating in hackathons, Kaggle competitions (like CAFA 6), and competitive programming.
+- 🚀 Actively participating in hackathons, Kaggle competitions (like CAFA 6 and Namitron Challenge), and competitive programming.
 - 💼 **Actively seeking internship opportunities** to apply my skills in impactful environments.
 
 ### 🛠️ Tech Stack & Tools
@@ -26,13 +26,13 @@
 * **Domains:** Data Structures & Algorithms, OSINT
 
 ### 🏆 Key Achievements
-* **2nd Runner Up** - InlightX Global Hackathon
-* **Top 2%** - India AI Impact Buildathon (out of 40,000+ participants)
-
+* **Winner** RagXthon by Neoteche.
+* **2nd Runner Up** - InlightX Global Hackathon.
+* **Top 2%** - India AI Impact Buildathon (out of 40,000+ participants).
+  
 ### 🚀 Featured Projects
 * **CLIRAG:** A secure, local, command-line-based Retrieval-Augmented Generation (RAG) system for analyzing confidential documents.
 * **Trinetra:** An OSINT and cyber-forensic tool developed for a government hackathon.
-* **Pathify:** [Add a brief 1-line description of what Pathify does here]
 * **Honeypot API Scam Detector:** A tool designed to track and combat online scams.
 
 ---
