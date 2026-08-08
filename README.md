@@ -175,12 +175,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarshneysvAI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VarshneysvAI&theme=tokyonight&hide_border=true" height="170" alt="Streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VarshneysvAI&theme=tokyonight&hide_border=true" height="170" alt="Contribution streak"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshneysvAI&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=VarshneysvAI&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=4" height="170" alt="Profile trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarshneysvAI&theme=tokyo-night&hide_border=true&hide_title=true" width="100%" alt="Contribution activity graph"/>
 </div>
 
 <!-- CONTRIBUTION SNAKE — auto-generated weekly by .github/workflows/snake.yml -->
