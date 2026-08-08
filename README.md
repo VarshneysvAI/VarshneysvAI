@@ -4,7 +4,7 @@
 
 <!-- HERO: typing SVG hero tagline -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7DD3FC&center=true&vCenter=true&width=940&lines=Shourya+Varshney;B.Tech+CSE+%E2%80%A2+Class+of+2028;AI%2FML+%C2%B7+RAG+%C2%B7+OSINT+%C2%B7+Cybersecurity;Hackathon+Winner+%F0%9F%8F%86+%C2%B7+Top+2%25+of+40%2C000%2B;Currently+building+ARGUS+%2B+Trinetra+%2B+CLIRAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7DD3FC&center=true&vCenter=true&width=940&lines=Shourya+Varshney;B.Tech+CSE+%E2%80%A2+Class+of+2028;AI%2FML+%C2%B7+RAG+%C2%B7+OSINT+%C2%B7+Cybersecurity;Hackathon+Winner+%F0%9F%8F%86+%C2%B7+Top+2%25+of+40%2C000%2B;Currently+building+ARGUS+%2B+Trinetra+%2B+CLIRAG)](https://git.io/typing-svg)
 
 </div>
 
