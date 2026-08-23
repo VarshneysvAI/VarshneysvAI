@@ -91,6 +91,7 @@
       <p align="center">Given a minimal Excel input, autonomously discovers sources, extracts multi-format evidence, runs <strong>5 adversarial audits per value</strong> with split-conformal 95% CI, and emits schema-bound output — <strong>or refuses with <code>INSUFFICIENT_EVIDENCE</code></strong> rather than hallucinate. UniHack 2026.</p>
       <p align="center">
         <a href="https://github.com/VarshneysvAI/semi-workbench"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        <a href="http://semi-ai.centralindia.cloudapp.azure.com/"><img src="https://img.shields.io/badge/Live%20Demo-7DD3FC?style=flat-square&logo=vercel&logoColor=white"/></a>
         <img src="https://img.shields.io/badge/UniHack%202026-2bbc8a?style=flat-square"/>
         <img src="https://img.shields.io/badge/Tests-5%2F5-green?style=flat-square"/>
       </p>
